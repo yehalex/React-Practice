@@ -1,10 +1,13 @@
 # Application built in exploring ReactJS
 
-Contains 4 pages of basic functionality exploring.  
+Contains basic functionality exploring.  
+  
 Accordion: displays collapsible content panel   
 Search: Search results using wikipedia's API   
 Dropdown: A simply dropdown selectable component   
-Translate: A translator using google translate **Note: api key removed as it is a paid service by google**   
+Translate: A translator using google translate  
+YoutubePlayer: A integrated youtube player   
+**Note: api key removed as it is a paid service by google**   
 
 # Getting Started with Create React App
 
