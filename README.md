@@ -1,5 +1,7 @@
 # Application built in exploring ReactJS
 
+demo can be found here: [https://widgets-mu-flax.vercel.app/](https://widgets-mu-flax.vercel.app/)
+
 Contains basic functionality exploring.  
   
 Accordion: displays collapsible content panel   
